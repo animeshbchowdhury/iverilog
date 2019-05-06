@@ -26,6 +26,7 @@
  * NOTE: Icarus Verilog does not support acc_ routines. This is just a
  * stub. The functions that are implemented here are actually
  * implemented using VPI routines.
+ * NEW ADDITION
  */
 
 
